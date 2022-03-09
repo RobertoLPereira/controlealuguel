@@ -1,0 +1,23 @@
+[
+    {
+        "idpessoa": 8,
+        "nome": "Fulano de Tal                                     ",
+        "telefone": "4898432100001                                                                                       ",
+        "proprietario": true,
+        "cadastradoem": "2021-12-04",
+        "status": 1,
+        "url_avatar": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584_960_720.png",
+        "email": "@gmail.com"
+    },
+    
+    {
+        "idpessoa": 1,
+        "nome": "Douglas Amorim Pereira                            ",
+        "telefone": "5548988035236                                                                                       ",
+        "proprietario": true,
+        "cadastradoem": "2021-12-03",
+        "status": 1,
+        "url_avatar": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584_960_720.png",
+        "email": "@gmail.com"
+    }
+]

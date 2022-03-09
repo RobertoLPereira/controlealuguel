@@ -1,0 +1,193 @@
+[   {
+    "idunidade": 1,
+    "idimovel": 1,
+    "idlocatario": 2,
+    "descricao": "Apartamento Nº 1",
+    "status": 1,
+    "idimovelcategoria": 1
+},
+{
+    "idunidade": 2,
+    "idimovel": 1,
+    "idlocatario": 3,
+    "descricao": "Apartamento Nº2",
+    "status": 1,
+    "idimovelcategoria": 1
+},
+{
+    "idunidade": 3,
+    "idimovel": 1,
+    "idlocatario": 4,
+    "descricao": "Apartamento Nº3",
+    "status": 1,
+    "idimovelcategoria": 1
+},
+{
+    "idunidade": 4,
+    "idimovel": 1,
+    "idlocatario": 5,
+    "descricao": "Apartamento Nº4",
+    "status": 1,
+    "idimovelcategoria": 1
+},
+{
+    "idunidade": 5,
+    "idimovel": 1,
+    "idlocatario": 6,
+    "descricao": "Apartamento Nº5",
+    "status": 1,
+    "idimovelcategoria": 1
+},
+{
+    "idunidade": 6,
+    "idimovel": 1,
+    "idlocatario": 7,
+    "descricao": "Apartamento Nº6",
+    "status": 1,
+    "idimovelcategoria": 1
+},
+    {
+        "idunidade": 1,
+        "idimovel": 2,
+        "idlocatario": 2,
+        "descricao": "Apartamento Nº 1",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 2,
+        "idimovel": 2,
+        "idlocatario": 3,
+        "descricao": "Apartamento Nº2",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 3,
+        "idimovel": 2,
+        "idlocatario": 4,
+        "descricao": "Apartamento Nº3",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 4,
+        "idimovel": 2,
+        "idlocatario": 5,
+        "descricao": "Apartamento Nº4",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 5,
+        "idimovel": 2,
+        "idlocatario": 6,
+        "descricao": "Apartamento Nº5",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 6,
+        "idimovel": 2,
+        "idlocatario": 7,
+        "descricao": "Apartamento Nº6",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 1,
+        "idimovel": 3,
+        "idlocatario": 2,
+        "descricao": "Apartamento Nº 1",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 2,
+        "idimovel": 3,
+        "idlocatario": 3,
+        "descricao": "Apartamento Nº2",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 3,
+        "idimovel": 3,
+        "idlocatario": 4,
+        "descricao": "Apartamento Nº3",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 4,
+        "idimovel": 3,
+        "idlocatario": 5,
+        "descricao": "Apartamento Nº4",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 5,
+        "idimovel": 3,
+        "idlocatario": 6,
+        "descricao": "Apartamento Nº5",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 6,
+        "idimovel": 3,
+        "idlocatario": 7,
+        "descricao": "Apartamento Nº6",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 1,
+        "idimovel": 4,
+        "idlocatario": 2,
+        "descricao": "Apartamento Nº 1",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 2,
+        "idimovel": 4,
+        "idlocatario": 3,
+        "descricao": "Apartamento Nº2",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 3,
+        "idimovel": 4,
+        "idlocatario": 4,
+        "descricao": "Apartamento Nº3",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 4,
+        "idimovel": 4,
+        "idlocatario": 5,
+        "descricao": "Apartamento Nº4",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 5,
+        "idimovel": 4,
+        "idlocatario": 6,
+        "descricao": "Apartamento Nº5",
+        "status": 1,
+        "idimovelcategoria": 1
+    },
+    {
+        "idunidade": 6,
+        "idimovel": 4,
+        "idlocatario": 7,
+        "descricao": "Apartamento Nº6",
+        "status": 1,
+        "idimovelcategoria": 1
+    }
+]
